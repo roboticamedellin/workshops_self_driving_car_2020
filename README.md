@@ -1,1 +1,1 @@
-# workshops_self_driving_car_2020
+# Workshops Self-driving Car 2020
